@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class greatestnumber {
+public class GreatestNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
